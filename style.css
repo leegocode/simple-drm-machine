@@ -1,0 +1,36 @@
+body{
+    background: url(./media/basic-pics/7.jpg) no-repeat center/cover;
+    height: 100vh;
+
+}
+
+
+.music-box{
+width: 500px;
+height: 300px;
+margin: 0 auto;
+padding-top: 10rem;
+display: flex;
+/* background-color: #69abed; */
+flex-wrap: wrap;
+}
+
+.drum{
+    flex: 1 0 10%;
+    padding: 2.5rem;
+    /* width: 200px; */
+    margin: 0.5rem 1rem;
+    text-align: center;
+    background-color: #d7e80b;
+}
+
+.blue{
+    background-color: #00ffff;
+    /* transition: 0.1s; */
+}
+
+.purple{
+    background-color: #9d2fee;
+    /* transition: 0.1s; */
+}
+
